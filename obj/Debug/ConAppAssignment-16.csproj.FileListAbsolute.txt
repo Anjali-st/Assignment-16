@@ -1,0 +1,8 @@
+D:\DotNet\Day-14\ConAppAssignment-16\bin\Debug\ConAppAssignment-16.exe.config
+D:\DotNet\Day-14\ConAppAssignment-16\bin\Debug\ConAppAssignment-16.exe
+D:\DotNet\Day-14\ConAppAssignment-16\bin\Debug\ConAppAssignment-16.pdb
+D:\DotNet\Day-14\ConAppAssignment-16\obj\Debug\ConAppAssignment-16.csproj.AssemblyReference.cache
+D:\DotNet\Day-14\ConAppAssignment-16\obj\Debug\ConAppAssignment-16.csproj.SuggestedBindingRedirects.cache
+D:\DotNet\Day-14\ConAppAssignment-16\obj\Debug\ConAppAssignment-16.csproj.CoreCompileInputs.cache
+D:\DotNet\Day-14\ConAppAssignment-16\obj\Debug\ConAppAssignment-16.exe
+D:\DotNet\Day-14\ConAppAssignment-16\obj\Debug\ConAppAssignment-16.pdb
